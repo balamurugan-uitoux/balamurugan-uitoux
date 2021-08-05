@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balamurugan-uitoux
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently Flutter and Python 
+- 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on all the works
 - 📫 How to reach me +91 80121 64417
 
