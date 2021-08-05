@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @balamurugan-uitoux
+- 👋 Hi, I’m Balamurugan
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on all the works
